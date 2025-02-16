@@ -16,3 +16,6 @@ Plans:
 - merge the two models above and create a 4 channel version of the hub
 - create a macro to cut filament
 - redesign block for filament cutter to improve stability
+
+
+Please be aware that some of these steps may damage your printer if you are not careful, I am not responsible for damage to your printer!
